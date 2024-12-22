@@ -22,6 +22,8 @@ You may also see any lint errors in the console.
 ### Hotel details page
 1. User can see details about the selected hotel
 2. User can go back to previous page
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/7ac54fc9-fc99-424e-bd6e-b458f6c43b3c" />
+
 
 ### Loading
 
